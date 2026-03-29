@@ -1,0 +1,11 @@
+deepface
+opencv-python
+numpy
+matplotlib
+Pillow
+flask
+flask-socketio
+insightface
+onnxruntime-gpu
+torch
+torchvision
